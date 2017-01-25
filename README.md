@@ -6,3 +6,4 @@ Following is the list of angular2 exploratory projects:
 - [inventory](https://ajaniv.github.io/angular2-explore-inventory/)
 - [builtin](https://ajaniv.github.io/angular2-explore-builtin/)
 - [forms](https://ajaniv.github.io/angular2-explore-forms/)
+- [http](https://ajaniv.github.io/angular2-explore-http/)
