@@ -8,3 +8,5 @@ Following is the list of angular2 exploratory projects:
 - [forms](https://ajaniv.github.io/angular2-explore-forms/)
 - [http](https://ajaniv.github.io/angular2-explore-http/)
 - [routes-music](https://ajaniv.github.io/angular2-explore-routes-music/)
+- [routes-auth](https://ajaniv.github.io/angular2-explore-routes-auth/)
+- [routes-nested](https://ajaniv.github.io/angular2-explore-routes-nested/)
