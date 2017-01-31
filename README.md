@@ -10,3 +10,4 @@ Following is the list of angular2 exploratory projects:
 - [routes-music](https://ajaniv.github.io/angular2-explore-routes-music/)
 - [routes-auth](https://ajaniv.github.io/angular2-explore-routes-auth/)
 - [routes-nested](https://ajaniv.github.io/angular2-explore-routes-nested/)
+- [chat-rxjs](https://ajaniv.github.io/angular2-explore-chat-rxjs/)
