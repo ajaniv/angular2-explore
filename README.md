@@ -12,3 +12,4 @@ Following is the list of angular2 exploratory projects:
 - [routes-nested](https://ajaniv.github.io/angular2-explore-routes-nested/)
 - [chat-rxjs](https://ajaniv.github.io/angular2-explore-chat-rxjs/)
 - [redux-counter](https://ajaniv.github.io/angular2-explore-redux-counter/)
+- [redux-chat](https://ajaniv.github.io/angular2-explore-redux-chat/)
